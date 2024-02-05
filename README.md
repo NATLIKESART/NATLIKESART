@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NATLIKESART
-- 👀 I’m interested in art and oding
+- 👀 I’m interested in art and coding
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me email
